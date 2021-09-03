@@ -1,0 +1,9 @@
+h1{
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+    
+    color:white;
+}
+body{
+  background: linear-gradient(to right,#7c1387,#8f199c,#dba50f);
+}
